@@ -3,7 +3,7 @@ name = "SigmaOS-rdp-client"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "rdp-client component"
+description = "RDP Client"
 upstream = []
 
 [contract]
